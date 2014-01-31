@@ -17,7 +17,7 @@ A computer cluster is made up of a collection of processing nodes connected toge
 
 Legion is a heterogeneous cluster, consisting of different types of nodes which are suited to different types of computational task. Many of the nodes are particularly suited to running ‘parallel’ jobs where a significant portion of the processing task can be split up and delegated to independent processing units running simultaneously. However, other kinds of computational task need to be run on systems that share a very large amount of memory between processors; Legion has three large memory nodes that support jobs requiring up to 1TB of RAM. All of the nodes have access to the same pre-installed and centrally maintained libraries and software, increasing the flexibility of the system.
 
-Iridis is a large homeogeneous distributed cluster which is reserved for highly parallelised jobs that require more than 36 cores to run.
+Iridis is a large homogeneous distributed cluster which is reserved for highly parallelised jobs that require more than 36 cores to run.
 
 Emerald has 372 high performance NVIDIA Tesla Graphics Processor Units (GPUs), whose highly parallel architecture can be more efficient than general-purpose CPUs when using specialised software libraries and program. These specially tailored implementations use the hundreds of small computational cores within each graphics chip to perform more than an order of magnitude faster than traditional CPUs. Uses include ray tracing, molecular dynamics, protein folding calculations, machine learning, scientific image processing, statistics, computational finance, large-scale modelling, and evolutionary computation.
 
