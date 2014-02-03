@@ -1,8 +1,11 @@
-#Research Computing Platform Services
+Research Computing Platform Services
+====================================
+![Research Computing](https://www.ucl.ac.uk/research-it-services/images/hpc2.jpg)
 
 Research Computing Platform Services offer a range of advanced platforms for computationally intensive research. These services are currently available to UCL researchers, their partners and collaborators.
 
-##Overview
+Overview
+----------
 
 RITS' research computing platforms are free for UCL researchers to use on a fair share basis, or as a dedicated resource. They can be used to solve different types of problem:
 
@@ -11,8 +14,8 @@ RITS' research computing platforms are free for UCL researchers to use on a fair
 
 Iridis and Emerald are shared regional facilities owned by the Centre for Innovation, of which UCL is a founding member.
 
-##How the service works
-
+How the service works
+---------------------
 A computer cluster is made up of a collection of processing nodes connected together by a fast network, effectively operating as a single system. Legion has over 5,000 processor cores and Iridis nearly 6,000 cores available for UCL use, giving users the ability to run jobs they cannot perform on desktop or other local systems, or get through workloads that would be impractical on local resources, whilst being available at a fraction of the cost of a bespoke supercomputer. 
 
 Legion is a heterogeneous cluster, consisting of different types of nodes which are suited to different types of computational task. Many of the nodes are particularly suited to running ‘parallel’ jobs where a significant portion of the processing task can be split up and delegated to independent processing units running simultaneously. However, other kinds of computational task need to be run on systems that share a very large amount of memory between processors; Legion has three large memory nodes that support jobs requiring up to 1TB of RAM. All of the nodes have access to the same pre-installed and centrally maintained libraries and software, increasing the flexibility of the system.
@@ -27,8 +30,8 @@ Find out more about [Iridis](http://www.einfrastructuresouth.ac.uk/cfi/iridis)
 
 Find out more about [Emerald](http://www.einfrastructuresouth.ac.uk/cfi/emerald)
 
-##Who should use Research Computing Platform Services?
-
+Who should use Research Computing Platform Services?
+----------------------------------------------------
 Researchers from a wide variety of disciplines make use of our Research Computing Platform Services and we are keen to encourage and assist new users from across the faculties. Some examples of research projects currently making use of Legion, Iridis and Emerald are:
 
 + modelling the epidemiology of infectious disease
@@ -53,8 +56,8 @@ Applications to use Research Computing Platform Services can be made for any res
 
 [Register your interest](http://www.silva-sandbox.ucl.ac.uk/research-it-services/register-your-interest)
 
-##The team
-
+The team
+--------
 The members of the Research Computing team are:
 
 + [Dr Bruno Silva](http://www.silva-sandbox.ucl.ac.uk/research-it-services/our-people/bruno) – Deputy Head, Research Computing and Facilitating Services and Research Computing Platforms Team Leader
@@ -62,8 +65,8 @@ The members of the Research Computing team are:
 + [Dr Owain Kenway](http://www.silva-sandbox.ucl.ac.uk/research-it-services/our-people/owain) – Research Computing Analyst
 + [Dr Ian Kirker](http://www.silva-sandbox.ucl.ac.uk/research-it-services/our-people/ian) – Research Computing Analyst
 
-##Talk to us
-
+Talk to us
+----------
 We’d love to hear from you, especially if:
 
 + you would like to discuss any aspect of the services offered by our Research Computing team
